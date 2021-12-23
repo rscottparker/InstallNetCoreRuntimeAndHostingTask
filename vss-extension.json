@@ -3,7 +3,7 @@
     "id": "InstallNetCoreRuntimeAndHosting",
     "version": "0.0.0",
     "name": "Install .NET Core Runtime & Hosting Bundle",
-    "publisher": "rbosma",
+    "publisher": "scott parker",
     "description": "Azure DevOps pipeline task that downloads and installs the latest .NET Core runtime and hosting bundle.",
     "targets": [
         {
